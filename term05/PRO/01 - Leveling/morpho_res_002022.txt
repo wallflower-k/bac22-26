@@ -1,0 +1,144 @@
+<html><body><text authorid="-marya---" birthdate="1981" city="Москва" comment="Y" country="Россия" docid="46262520" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="3" region="Москва" source="2" url="https://m.livejournal.com/read/user/_marya___/45926/comments/p1/591206" year="2005">
+1	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+2	над	над	ADP	_	_	3	case	_	_	cyrillic	
+3	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_	cyrillic	
+4	*	*	SYM	_	_	1	parataxis	_	_		
+5	)	)	PUNCT	_	_	1	discourse	_	_	punct	
+</text>
+<text authorid="-marya---" birthdate="1981" city="Москва" comment="Y" country="Россия" docid="85650053" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="3" region="Москва" source="2" url="https://m.livejournal.com/read/user/_marya___/45926/comments/p1/593254" year="2005">
+
+1	пасиб	пасиб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	discourse	_	_	cyrillic	
+2	*	*	SYM	_	_	1	parataxis	_	_		
+3	)	)	PUNCT	_	_	1	discourse	_	_	punct	
+4	просто	просто	PART	_	_	5	advmod	_	_	cyrillic	
+5	устала	устать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+</text>
+<text authorid="-marya---" birthdate="1981" city="Москва" comment="Y" country="Россия" docid="85650061" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="8" region="Москва" source="2" url="https://m.livejournal.com/read/user/_marya___/45926/comments/p1/593254" year="2005">
+
+1	не	не	PART	_	_	7	advmod	_	_	cyrillic	
+2	,	,	PUNCT	_	_	7	punct	_	_	punct	
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_	cyrillic	
+4	уж	уж	PART	_	_	7	advmod	_	_	cyrillic	
+5	лучше	хорошо	ADV	_	Degree=Cmp	7	advmod	_	_	cyrillic	
+6	ролики	ролик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_	cyrillic	
+7	достану	достать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+8	*	*	SYM	_	_	7	parataxis	_	_		
+9	)	)	PUNCT	_	_	12	punct	_	_	punct	
+10	кстати	кстати	ADV	_	Degree=Pos	7	parataxis	_	_	cyrillic	
+11	,	,	PUNCT	_	_	10	punct	_	_	punct	
+12	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	_	cyrillic	
+13	!	!	PUNCT	_	_	7	punct	_	_	punct	
+
+1	*	*	SYM	_	_	0	root	_	_		
+2	)	)	PUNCT	_	_	1	punct	_	_	punct	
+</text>
+<text authorid="-marya---" birthdate="1981" city="Москва" comment="Y" country="Россия" docid="87213280" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="6" region="Москва" source="2" url="https://m.livejournal.com/read/user/_marya___/45926/comments/p2" year="2005">
+
+1	в	в	ADP	_	_	2	case	_	_	cyrillic	
+2	отпуск	отпуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	_	cyrillic	
+3	,	,	PUNCT	_	_	6	punct	_	_	punct	
+4	бы	бы	PART	_	Mood=Cnd	2	aux	_	_	cyrillic	
+5	,	,	PUNCT	_	_	6	punct	_	_	punct	
+6	блин	блин	INTJ	_	_	2	parataxis	_	_	cyrillic	
+7	!	!	PUNCT	_	_	2	punct	_	_	punct	
+
+1	В	в	ADP	_	_	2	case	_	_	cyrillic	
+2	отпуск	отпуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	_	cyrillic	
+3	!!!	!!!	PUNCT	_	_	2	punct	_	_	punct	
+</text>
+<text authorid="-marya---" birthdate="1981" city="Москва" comment="Y" country="Россия" docid="87213288" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="13" region="Москва" source="2" url="https://m.livejournal.com/read/user/_marya___/45926/comments/p2" year="2005">
+
+1	в	в	ADP	_	_	2	case	_	_	cyrillic	
+2	отпуск	отпуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_	cyrillic	
+3	пока	пока	ADV	_	Degree=Pos	5	advmod	_	_	cyrillic	
+4	не	не	PART	_	_	5	advmod	_	_	cyrillic	
+5	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+6	—	—	PUNCT	_	_	10	punct	_	_	punct	
+7	рано	рано	ADV	_	Degree=Pos	5	parataxis	_	_	cyrillic	
+8	...	...	PUNCT	_	_	10	punct	_	_	punct	
+9	на	на	ADP	_	_	10	case	_	_	cyrillic	
+10	майские	майский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	obl	_	_	cyrillic	
+11	?	?	PUNCT	_	_	5	punct	_	_	punct	
+
+1	щет	щет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_	cyrillic	
+2	,	,	PUNCT	_	_	6	punct	_	_	punct	
+3	вообще	вообще	ADV	_	Degree=Pos	5	advmod	_	_	cyrillic	
+4	никаких	никакой	DET	_	Case=Gen|Number=Plur	5	det	_	_	cyrillic	
+5	планов	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	_	cyrillic	
+6	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_	cyrillic	
+7	((	((	SYM	_	_	6	discourse	_	_	smile	
+</text>
+<text authorid="-marya---" birthdate="1981" city="Москва" comment="N" country="Россия" docid="180923479" genre="social" location=" Moscow, Москва, Russian Federation " month="04" numwords="48" region="Москва" source="2" title="ПОКОЛЕНИЕ Х" url="https://m.livejournal.com/read/user/_marya___/46182" year="2005">
+
+1	"	"	PUNCT	_	_	8	punct	_	_	punct	
+2	...	...	PUNCT	_	_	8	punct	_	_	punct	
+3	в	в	ADP	_	_	5	case	_	_	cyrillic	
+4	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur	5	det	_	_	cyrillic	
+5	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_	cyrillic	
+6	адской	адский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_	cyrillic	
+7	мукой	мука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	xcomp	_	_	cyrillic	
+8	становится	стать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_	cyrillic	
+9	буквально	буквально	ADV	_	Degree=Pos	10	advmod	_	_	cyrillic	
+10	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_	cyrillic	
+11	:	:	PUNCT	_	_	12	punct	_	_	punct	
+12	свидания	свидание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	parataxis	_	_	cyrillic	
+13	,	,	PUNCT	_	_	14	punct	_	_	punct	
+14	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	_	cyrillic	
+15	,	,	PUNCT	_	_	16	punct	_	_	punct	
+16	вечеринки	вечеринка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	conj	_	_	cyrillic	
+17	,	,	PUNCT	_	_	18	punct	_	_	punct	
+18	погода	погода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	_	cyrillic	
+19	...	...	PUNCT	_	_	8	punct	_	_	punct	
+
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_	cyrillic	
+2	,	,	PUNCT	_	_	1	punct	_	_	punct	
+3	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_	cyrillic	
+4	в	в	ADP	_	_	5	case	_	_	cyrillic	
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_	cyrillic	
+6	,	,	PUNCT	_	_	11	punct	_	_	punct	
+7	что	что	SCONJ	_	_	11	mark	_	_	cyrillic	
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	11	nsubj	_	_	cyrillic	
+9	больше	много	ADV	_	Degree=Cmp	10	advmod	_	_	cyrillic	
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	_	cyrillic	
+11	верим	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_	cyrillic	
+12	в	в	ADP	_	_	14	case	_	_	cyrillic	
+13	нашу	наш	DET	_	Case=Acc|Gender=Fem|Number=Sing	14	det	_	_	cyrillic	
+14	планету	планета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_	cyrillic	
+15	?	?	PUNCT	_	_	5	punct	_	_	punct	
+
+1	А	а	CCONJ	_	_	5	cc	_	_	cyrillic	
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_	cyrillic	
+3	,	,	PUNCT	_	_	2	punct	_	_	punct	
+4	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	5	iobj	_	_	cyrillic	
+5	обещали	обещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+6	рай	рай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_	cyrillic	
+7	на	на	ADP	_	_	8	case	_	_	cyrillic	
+8	земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_	cyrillic	
+9	и	и	CCONJ	_	_	12	cc	_	_	cyrillic	
+10	действительность	действительность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_	cyrillic	
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	_	cyrillic	
+12	выдерживает	выдержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_	cyrillic	
+13	конкуренции	конкуренция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obj	_	_	cyrillic	
+14	с	с	ADP	_	_	15	case	_	_	cyrillic	
+15	мечтами	мечта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	nmod	_	_	cyrillic	
+16	?	?	PUNCT	_	_	5	punct	_	_	punct	
+
+1	А	а	CCONJ	_	_	6	cc	_	_	cyrillic	
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_	cyrillic	
+3	,	,	PUNCT	_	_	2	punct	_	_	punct	
+4	нас	мы	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=1	6	obj	_	_	cyrillic	
+5	просто	просто	PART	_	_	6	advmod	_	_	cyrillic	
+6	надули	надуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_	cyrillic	
+7	.	.	PUNCT	_	_	6	punct	_	_	punct	
+
+1	Как	как	ADV	_	Degree=Pos	2	advmod	_	_	cyrillic	
+2	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_	cyrillic	
+3	,	,	PUNCT	_	_	5	punct	_	_	punct	
+4	как	как	ADV	_	Degree=Pos	5	advmod	_	_	cyrillic	
+5	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	_	cyrillic	
+6	...	...	PUNCT	_	_	5	punct	_	_	punct	
+7	"	"	PUNCT	_	_	8	punct	_	_	punct	
+8	читаю	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_	cyrillic	
+9	...	...	PUNCT	_	_	8	punct	_	_	punct	
+</text>
+</body></html>
