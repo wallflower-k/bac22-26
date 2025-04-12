@@ -1,0 +1,349 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+      "layer": "109A-5",
+      "name": "Applicative Constructions",
+      "domain": [
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "id": "109A-1",
+          "name": "Benefactive object; both bases"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8cGF0aCBkPSJNMjAgMiBMMzggMjAgTDIwIDM4IEwyIDIwIEwyMCAyIiBzdHlsZT0iZmlsbDojREQwMDAwO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtvcGFjaXR5Ok5vbmU7Ii8+Cjwvc3ZnPg==",
+          "id": "109A-2",
+          "name": "Benefactive object; only transitive"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "id": "109A-3",
+          "name": "Benefactive and other; both bases"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8cGF0aCBkPSJNMjAgMiBMMzggMjAgTDIwIDM4IEwyIDIwIEwyMCAyIiBzdHlsZT0iZmlsbDojOTkwMDk5O3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtvcGFjaXR5Ok5vbmU7Ii8+Cjwvc3ZnPg==",
+          "id": "109A-4",
+          "name": "Benefactive and other; only transitive"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "id": "109A-5",
+          "name": "Non-benefactive object; both bases"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8cGF0aCBkPSJNMjAgMiBMMzggMjAgTDIwIDM4IEwyIDIwIEwyMCAyIiBzdHlsZT0iZmlsbDojMDAwMEREO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtvcGFjaXR5Ok5vbmU7Ii8+Cjwvc3ZnPg==",
+          "id": "109A-6",
+          "name": "Non-benefactive object; only transitive"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8cGF0aCBkPSJNOCA4IEgzMiBWMzIgSDggVjgiIHN0eWxlPSJmaWxsOiMwMDAwREQ7c3Ryb2tlOmJsYWNrO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO29wYWNpdHk6Tm9uZTsiLz4KPC9zdmc+",
+          "id": "109A-7",
+          "name": "Non-benefactive object; only intransitive"
+        },
+        {
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "id": "109A-8",
+          "name": "No applicative construction"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 630,
+            "ascii_name": "dyirbal",
+            "genus_pk": 35,
+            "samples_100": false,
+            "samples_200": false,
+            "macroarea": "Australia",
+            "iso_codes": "dbl",
+            "jsondata": {},
+            "id": "dyi",
+            "name": "Dyirbal",
+            "description": null,
+            "markup_description": null,
+            "latitude": -17.8333333333,
+            "longitude": 145.583333333
+          },
+          "name": "Dyirbal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            145.583333333,
+            -17.8333333333
+          ]
+        },
+        "id": "dyi"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 653,
+            "ascii_name": "epena pedee",
+            "genus_pk": 193,
+            "samples_100": false,
+            "samples_200": true,
+            "macroarea": "South America",
+            "iso_codes": "sja",
+            "jsondata": {},
+            "id": "epe",
+            "name": "Epena Pedee",
+            "description": null,
+            "markup_description": null,
+            "latitude": 3,
+            "longitude": -77
+          },
+          "name": "Epena Pedee"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            283,
+            3
+          ]
+        },
+        "id": "epe"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 988,
+            "ascii_name": "juhoan",
+            "genus_pk": 347,
+            "samples_100": false,
+            "samples_200": true,
+            "macroarea": "Africa",
+            "iso_codes": "ktz",
+            "jsondata": {},
+            "id": "juh",
+            "name": "Ju|'hoan",
+            "description": null,
+            "markup_description": null,
+            "latitude": -19,
+            "longitude": 21
+          },
+          "name": "Ju|'hoan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21,
+            -19
+          ]
+        },
+        "id": "juh"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 1198,
+            "ascii_name": "koyraboro senni",
+            "genus_pk": 362,
+            "samples_100": true,
+            "samples_200": true,
+            "macroarea": "Africa",
+            "iso_codes": "ses",
+            "jsondata": {},
+            "id": "kse",
+            "name": "Koyraboro Senni",
+            "description": null,
+            "markup_description": null,
+            "latitude": 16,
+            "longitude": 0
+          },
+          "name": "Koyraboro Senni"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0,
+            16
+          ]
+        },
+        "id": "kse"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 1740,
+            "ascii_name": "nkorekiga",
+            "genus_pk": 44,
+            "samples_100": false,
+            "samples_200": true,
+            "macroarea": "Africa",
+            "iso_codes": "cgg",
+            "jsondata": {},
+            "id": "nko",
+            "name": "Nkore-Kiga",
+            "description": null,
+            "markup_description": null,
+            "latitude": -0.916666666667,
+            "longitude": 29.8333333333
+          },
+          "name": "Nkore-Kiga"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.8333333333,
+            -0.916666666667
+          ]
+        },
+        "id": "nko"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 2200,
+            "ascii_name": "taba",
+            "genus_pk": 67,
+            "samples_100": false,
+            "samples_200": true,
+            "macroarea": "Papunesia",
+            "iso_codes": "mky",
+            "jsondata": {},
+            "id": "tab",
+            "name": "Taba",
+            "description": null,
+            "markup_description": null,
+            "latitude": 0,
+            "longitude": 127.5
+          },
+          "name": "Taba"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.5,
+            0
+          ]
+        },
+        "id": "tab"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 2282,
+            "ascii_name": "tiwi",
+            "genus_pk": 567,
+            "samples_100": true,
+            "samples_200": true,
+            "macroarea": "Australia",
+            "iso_codes": "tiw",
+            "jsondata": {},
+            "id": "tiw",
+            "name": "Tiwi",
+            "description": null,
+            "markup_description": null,
+            "latitude": -11.5,
+            "longitude": 131
+          },
+          "name": "Tiwi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            131,
+            -11.5
+          ]
+        },
+        "id": "tiw"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 2552,
+            "ascii_name": "yagua",
+            "genus_pk": 609,
+            "samples_100": true,
+            "samples_200": true,
+            "macroarea": "South America",
+            "iso_codes": "yad",
+            "jsondata": {},
+            "id": "yag",
+            "name": "Yagua",
+            "description": null,
+            "markup_description": null,
+            "latitude": -3.5,
+            "longitude": -72
+          },
+          "name": "Yagua"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            288,
+            -3.5
+          ]
+        },
+        "id": "yag"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "value_numeric": 5,
+          "value_name": "Non-benefactive object; both bases",
+          "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+          "language": {
+            "pk": 2583,
+            "ascii_name": "yidiny",
+            "genus_pk": 35,
+            "samples_100": false,
+            "samples_200": true,
+            "macroarea": "Australia",
+            "iso_codes": "yii",
+            "jsondata": {},
+            "id": "yid",
+            "name": "Yidiny",
+            "description": null,
+            "markup_description": null,
+            "latitude": -17,
+            "longitude": 145.75
+          },
+          "name": "Yidiny"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            145.75,
+            -17
+          ]
+        },
+        "id": "yid"
+      }
+    ]
+  }
+  
